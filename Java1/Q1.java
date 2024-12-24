@@ -3,7 +3,6 @@
 // (b) Using Constructor
 
 package Assignment_Q;
-
 public class Q1 {
     public static void main(String[] args) {
         int a = 17;

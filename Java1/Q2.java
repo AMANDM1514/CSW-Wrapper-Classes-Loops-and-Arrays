@@ -4,7 +4,6 @@
 
 
 package Assignment_Q;
-
 public class Q2 {
     public static void main(String[] args) {
         float b = 45.2f;

@@ -4,7 +4,6 @@
 package Assignment_Q;
 
 import java.util.Scanner;
-
 public class Q9 {
 
     Integer convertInteger(String n) {

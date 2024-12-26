@@ -4,7 +4,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class KthLargestAndSmallest {
+public class Q18 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of elements in the array: ");

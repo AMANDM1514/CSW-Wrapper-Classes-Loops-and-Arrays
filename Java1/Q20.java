@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class SortArray {
+public class Q20 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of elements in the array: ");
